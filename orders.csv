@@ -1,0 +1,6 @@
+order_id,customer_id,fruit,quantity,unit_price,order_date
+1,101,apple,10,1.2,2024-01-10
+2,101,banana,5,0.8,2024-01-12
+3,102,orange,20,1.0,2024-01-15
+4,103,apple,2,1.2,2024-01-18
+5,102,banana,15,0.8,2024-01-20
